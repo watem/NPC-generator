@@ -1,0 +1,37 @@
+Nam foodle Daergel the Gnome
+<male>
+
+<choose an Occupation and history>
+
+Appearance: Distinctive jewelry: earrings, necklace, circlet, bracelets, Piercings
+
+ABILITIES
+High Ability(ies) 
+Strength-powerful, brawny, strong as an ox 
+Dexterity-lithe, agile, graceful 
+Constitution-hardy, hale, healthy 
+Intelligence-studious, learned, inquisitive 
+Wisdom-perceptive, spiritual, insightful 
+Charisma-persuasive, forceful, born leader
+
+Strengths= set()
+
+Low Ability(ies) 
+Strength-feeble, scrawny 
+Dexterity-clumsy, fumbling 
+Constitution-sickly, pale 
+Intelligence-dim-witted, slow 
+Wisdom-oblivious, absentminded 
+Charisma-dull, boring 
+
+Weaknesses= {'Wis', 'Str', 'Cha', 'Int', 'Con'}
+
+Talent: Draws beautifully
+Mannerisms: Prone to singing, whistling, or humming quietly
+Interaction trait: Curious
+<DM chooses useful knowledge that character knows>
+
+ALIGNMENT: True Neutral
+Ideal: Redemption
+Bond: ['Protective of a valuable possession']
+Flaw or secret: Secret crime or misdeed
